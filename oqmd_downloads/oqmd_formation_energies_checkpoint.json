@@ -1,0 +1,27 @@
+{
+  "offset": 500,
+  "page_number": 2,
+  "total_entries": 1407395,
+  "records_downloaded": 500,
+  "filter": null,
+  "fields": [
+    "name",
+    "entry_id",
+    "formationenergy_id",
+    "duplicate_entry_id",
+    "icsd_id",
+    "prototype",
+    "spacegroup",
+    "composition_generic",
+    "ntypes",
+    "natoms",
+    "volume",
+    "unit_cell",
+    "sites",
+    "delta_e",
+    "stability",
+    "band_gap",
+    "fit",
+    "calculation_label"
+  ]
+}

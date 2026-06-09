@@ -1,0 +1,36 @@
+{
+  "current_formula": "SrTiO3",
+  "offset": 38,
+  "page_number": 1,
+  "total_entries_current_formula": 38,
+  "records_downloaded_total": 98,
+  "structures": [
+    "NaMnO2",
+    "LiFePO4",
+    "LiCoO2",
+    "NaFeO2",
+    "SrTiO3"
+  ],
+  "extra_filter": null,
+  "fields": [
+    "name",
+    "entry_id",
+    "formationenergy_id",
+    "duplicate_entry_id",
+    "icsd_id",
+    "prototype",
+    "spacegroup",
+    "composition",
+    "composition_generic",
+    "ntypes",
+    "natoms",
+    "volume",
+    "unit_cell",
+    "sites",
+    "delta_e",
+    "stability",
+    "band_gap",
+    "fit",
+    "calculation_label"
+  ]
+}
